@@ -1,5 +1,6 @@
-### Hi! I'm a Junior Go Developer 👋
+### Hi! I'm a Junior Go Developer
 
+My name is Damir
 I am actively developing my skills in Go (Golang) backend engineering. While I don't have commercial experience yet, I make up for it with a solid theoretical foundation, a strong understanding of architecture, and fully functional pet projects (source code below)
 
 ### 🛠 Tech Stack:
