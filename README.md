@@ -14,7 +14,6 @@ I am actively developing my skills in Go (Golang) backend engineering. While I d
 
 * 📂 [go-practice](https://github.com/Keyrozenxz/go-practice) - My Go development workspace and project sandbox
   * 🌐 **URL Shortener API (Latest):** A concurrent REST API service built with clean Go standard library (`net/http`). Features unique hash generation, JSON parsing, and HTTP redirects. Implemented thread-safe storage using `sync.RWMutex` and modern routing (`r.PathValue`).
-  * 
   * 📂 **Core & Mechanics:** Structured modules covering Go fundamentals, pointers, memory allocation, structs, and file I/O operations.
 
 ### 📚 Current Focus:
