@@ -6,15 +6,11 @@ I am actively developing my skills in Go (Golang) backend engineering. While I d
 
 ### 🛠 Tech Stack:
 
-![Go](https://shields.io)
-![PostgreSQL](https://shields.io)
-![Redis](https://shields.io)
-![Docker](https://shields.io)
-![Git](https://shields.io)
+`Go (Golang)` `SQL` `PostgreSQL` `Redis` `Docker` `Docker Compose` `Git`
 
 - **Languages & DB:** Go (Golang), SQL, PostgreSQL
 - **Tools & Tech:** Docker, Docker Compose, Git, REST API, gRPC (currently learning)
-- **Architecture:** Clean Architecture, MVC
+- **Architecture:** Clean Architecture
 
 ---
 
